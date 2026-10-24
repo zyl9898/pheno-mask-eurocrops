@@ -1,0 +1,19 @@
+{
+  "country": "portugal",
+  "n_parcels": 4603,
+  "n_classes": 79,
+  "per_class_cap": 120,
+  "split_sizes": {
+    "train": 2709,
+    "val": 482,
+    "test": 1412
+  },
+  "shots": {
+    "5": 279,
+    "10": 519,
+    "20": 932
+  },
+  "failed": 0,
+  "seed": 42,
+  "note": "PT has no official few-shot split; built with the same rule as Latvia."
+}

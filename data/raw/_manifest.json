@@ -1,0 +1,17 @@
+{
+  "source_record": "13789558",
+  "archive": "E:\\xiazai\\eurocrops_ssl\\data\\raw\\_official\\preprocess.zip",
+  "latvia": {
+    "per_class": 250,
+    "max_total": 30000
+  },
+  "estonia": {
+    "shots": [
+      5,
+      10,
+      20
+    ]
+  },
+  "created": "2026-10-23 01:34:11",
+  "seed": 42
+}

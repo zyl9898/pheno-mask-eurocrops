@@ -1,0 +1,17 @@
+{
+  "country": "estonia",
+  "purpose": "few-shot",
+  "n_parcels": 37584,
+  "failed": 0,
+  "shots": {
+    "5": 486,
+    "10": 840,
+    "20": 1402
+  },
+  "split_sizes": {
+    "train": 1402,
+    "val": 1000,
+    "test": 35182
+  },
+  "seed": 42
+}

@@ -1,0 +1,14 @@
+{
+  "country": "latvia",
+  "purpose": "pretrain",
+  "n_parcels": 13165,
+  "n_classes": 103,
+  "per_class_quota": 250,
+  "split_sizes": {
+    "train": 11867,
+    "val": 649,
+    "test": 649
+  },
+  "failed": 0,
+  "seed": 42
+}
