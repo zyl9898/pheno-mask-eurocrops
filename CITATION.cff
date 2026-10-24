@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code or these weights, please cite the manuscript below."
+title: "Quantifying evaluation protocol bias and label-space dependence in few-shot crop mapping"
+abstract: >-
+  Measures what self-supervised pre-training contributes to few-shot crop mapping once
+  same-split sampling and label-space size are separated from it, using a 9,472-parameter
+  temporal attention encoder pre-trained on Latvian parcels and probed on Estonian ones.
+authors:
+  - family-names: Zhou
+    given-names: Yulin
+    email: ethanlynx@foxmail.com
+    affiliation: "Wolverhampton University Institute of Agricultural Engineering of Yunnan Agricultural University, Kunming 650201, China"
+year: 2026
+license: MIT
+keywords:
+  - crop type mapping
+  - self-supervised learning
+  - evaluation protocol
+  - few-shot learning
+  - Sentinel-2
