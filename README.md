@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33906965/README.md)
 # Quantifying evaluation protocol bias and label-space dependence in few-shot crop mapping
 
 Code, data partitions and trained weights for the manuscript submitted to the
